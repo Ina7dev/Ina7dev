@@ -1,4 +1,4 @@
-# ¡Hola! Soy Ina 👋
+# ¡Hola! Soy Valentins Calderón (Ina) 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-antonia-calder%C3%B3n-torres-a19a41249/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LizzIna)
