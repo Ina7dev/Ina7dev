@@ -51,16 +51,16 @@ Estudiante de **Ingeniería Civil en Informática**. Me apasiona el **desarrollo
 
 ## 🛠️ Tecnologías y Habilidades / Technologies & Skills
 
-**Lenguajes / Languages:**
+**Lenguajes & Modelado / Languages & Modeling:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=py,java,js,html,css,r,latex" />
+**Frameworks & Librerías / Frameworks & Libraries:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=6DBE45)
 
-**Frameworks & Bases de Datos / Frameworks & Databases:**
+**Bases de Datos / Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,postgres" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
+**Entornos de Desarrollo / Development Environments:** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)
 
-**Entornos & Herramientas / Environments & Tools:**
+**Control de Versiones & Análisis de Datos / Version Control & Data Analysis:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge)
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="48" alt="NetBeans" />
-
-*También uso / Also using: RStudio*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,r,matlab,latex,react,nextjs,postgres,vscode,git,github&perline=7" />
+</p>
