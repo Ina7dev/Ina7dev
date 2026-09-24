@@ -57,10 +57,10 @@ Estudiante de **Ingeniería Civil en Informática**. Me apasiona el **desarrollo
 
 **Frameworks & Bases de Datos / Frameworks & Databases:**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,postgres" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,postgres" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
 
 **Entornos & Herramientas / Environments & Tools:**
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="48" alt="NetBeans" />
 
-*También uso / Also using: Matplotlib · RStudio*
+*También uso / Also using: RStudio*
