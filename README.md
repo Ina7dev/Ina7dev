@@ -1,7 +1,7 @@
-# ¡Hola! Soy Valentins Calderón (Ina) 👋
+# ¡Hola! Soy Valentina Calderón (Ina) 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-antonia-calder%C3%B3n-torres-a19a41249/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LizzIna)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ina7dev)
 [![Email](https://img.shields.io/badge/valentinacalderon466@gmail.com-1A237E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentinacalderon466@gmail.com)
 [![Email Institucional](https://img.shields.io/badge/Email_Institucional-0288D1?style=for-the-badge)](mailto:valentinaantonia.calderon@alumnos.ulagos.cl)
 
