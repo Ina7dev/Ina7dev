@@ -1,4 +1,4 @@
-# ¡Hola! Soy Valentina Calderón (Ina) 👋
+# ¡Hola! Soy Ina 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-antonia-calder%C3%B3n-torres-a19a41249/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ina7dev)
@@ -12,6 +12,7 @@ Estudiante de **Ingeniería Civil en Informática**. Me apasiona el **desarrollo
 ### 🚀 Sobre mí
 
 - 🎓 Estudiando **Ingeniería Civil en Informática** en la **Universidad de Los Lagos** (Sede Chiloé).
+- 🎮 **Güiña Jump:** A cargo de la programación de este videojuego educativo 2D sobre las amenazas que enfrenta la fauna nativa de Chiloé (güiña, pudú y chungungo). Destacado en [CNN Chile](https://www.cnnchile.com/bits/guina-jump-universitarias-crean-videojuego-para-conciencia-fauna-nativa-chiloe-y-sus-amenazas_20250416/), [Canal 13](https://www.13.cl/c/programas/espacio-13c/guina-jump-universitarias-crean-videojuego-educativo-para-proteger-fauna) y [24 Horas TVN](https://www.24horas.cl/conciencia-24-7/tecnologia/estudiantes-universidad-los-lagos-crean-videojuego-).
 - 🌐 **Desarrollo Web:** Creando aplicaciones con *React* y *Next.js*, tanto en proyectos de curso como en equipo.
 - 🗄️ **Bases de Datos:** Trabajando con *PostgreSQL*, modelado de datos, transacciones y control de concurrencia.
 - 📊 **Algoritmos y Datos:** Diseño y análisis de algoritmos, y análisis estadístico con *R*.
@@ -34,6 +35,7 @@ Estudiante de **Ingeniería Civil en Informática**. Me apasiona el **desarrollo
 ### 🚀 About Me
 
 - 🎓 Studying **Civil Engineering in Computer Science** at **Universidad de Los Lagos** (Chiloé Campus).
+- 🎮 **Güiña Jump:** Lead programmer of this 2D educational video game about the threats facing Chiloé's native wildlife (güiña, pudú and chungungo). Featured on [CNN Chile](https://www.cnnchile.com/bits/guina-jump-universitarias-crean-videojuego-para-conciencia-fauna-nativa-chiloe-y-sus-amenazas_20250416/), [Canal 13](https://www.13.cl/c/programas/espacio-13c/guina-jump-universitarias-crean-videojuego-educativo-para-proteger-fauna) and [24 Horas TVN](https://www.24horas.cl/conciencia-24-7/tecnologia/estudiantes-universidad-los-lagos-crean-videojuego-).
 - 🌐 **Web Development:** Building applications with *React* and *Next.js*, in both coursework and team projects.
 - 🗄️ **Databases:** Working with *PostgreSQL*, data modeling, transactions and concurrency control.
 - 📊 **Algorithms & Data:** Algorithm design and analysis, and statistical analysis with *R*.
